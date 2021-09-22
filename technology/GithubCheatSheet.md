@@ -1,8 +1,12 @@
 # **GIT AND GITHUB CHEAT SHEET**
 
-## Contributors: [Ankush Singh Gandhi](https://github.com/AnkushSinghGandhi)
+--------
+## Author: [Ankush Singh Gandhi](https://github.com/AnkushSinghGandhi)
+## Contributors:
 ## originally published: [ankushgandhi.com/githubcheatsheet](ankushgandhi.com/githubcheatsheet)
 On ankushgandhi.com, the blog may be temporarily unavailable. If that's the case, you can go to [dev.to/ankushsinghgandhi](https://dev.to/ankushsinghgandhi/git-github-cheat-sheet-71b)
+## For more blogs visit [ankushgandhi.com/blogs](https://ankushgandhi.com/blogs)
+--------
 
 ### **Git** is the free and open source distributed version control system that's responsible for everything GitHub related that happens locally on your computer. This cheat sheet features the most important and commonly used Git commands for easy reference.
 
