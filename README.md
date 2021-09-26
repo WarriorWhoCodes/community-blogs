@@ -1,6 +1,6 @@
 # [CodeVisors Blog](https://codevisors.github.io/)
-
-Welcome to the CodeVisors blog repo! Contributions, typo fixes and pull requests are welcome :thumbsup:
+This repository is for submissions for posts to the CodeVisors Community Blog. We welcome submissions to the blog from anyone in the community.
+Contributions, typo fixes and pull requests are welcome :thumbsup:
 
 ## [How to contribute content]
 
