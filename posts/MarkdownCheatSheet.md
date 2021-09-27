@@ -1,11 +1,14 @@
-# **GIT AND GITHUB CHEAT SHEET**
---------
-## Author: [Ankush Singh Gandhi](https://github.com/AnkushSinghGandhi)
-## Contributors:
-## Originally published: [ankushgandhi.com/markdowncheatsheet](https://ankushsingh.netlify.app/blogs/markdowncheatsheet)
-On ankushgandhi.com, the blog may be temporarily unavailable. If that's the case, you can go to [dev.to/ankushsinghgandhi](https://dev.to/ankushsinghgandhi/markdown-cheat-sheet-1il5)
-## For more blogs visit [ankushgandhi.com/blogs](https://ankushgandhi.com/blogs)
---------
+---
+title: MarkDown Cheat Sheet
+description: "This post is about Basics Markdown"
+date: 2021-05-23
+thumbnail: 'https://res.cloudinary.com/practicaldev/image/fetch/s--vHykcq2d--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/i/40c0xdv9htifh00kfi8i.jpg'
+layout: Post
+authors:
+  - Ankush Singh Gandhi
+---
+
+# **MarkDown Cheat Sheet**
 
 Have you ever wondered how these "readme.md" files are written on Github? Or how Blog posts like this are written? Whether you're new or you have been a programmer for a while then you probably have heard of "Markdown" but you probably never had the chance to learn it or you probably know some of it's syntax but can't quiet get the grasp of it. No problem! This is tutorial is for anyone who wants to learn Markdown and add a new skill to their belt because it's something everyone should know.
 
